@@ -1,3 +1,5 @@
 print('this file was created within RStudio')
 print('And now it lives on GitHub')
 print('change 1')
+print('change 2')
+print('change 3')
